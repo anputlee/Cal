@@ -1,0 +1,8 @@
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\bin\Release\计算器.exe.config
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\bin\Release\计算器.exe
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\bin\Release\计算器.pdb
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\obj\Release\计算器.Form1.resources
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\obj\Release\计算器.Properties.Resources.resources
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\obj\Release\计算器.csproj.GenerateResource.Cache
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\obj\Release\计算器.exe
+c:\users\mydog\documents\visual studio 2017\Projects\计算器\计算器\obj\Release\计算器.pdb
